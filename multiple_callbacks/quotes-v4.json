@@ -1,0 +1,33 @@
+[
+  {
+    "date": "Sun Sep 20 14:07:28 2020",
+    "title": "Quotes to Scrape",
+    "top_ten_tags": [
+      "love",
+      "inspirational",
+      "life",
+      "humor",
+      "books",
+      "reading",
+      "friendship",
+      "friends",
+      "truth",
+      "simile"
+    ]
+  },
+  {
+    "quotes": [
+      "quotes_home",
+      "\u201cThe truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.\u201d",
+      "\u201cI'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.\u201d",
+      "\u201cTo die will be an awfully big adventure.\u201d",
+      "\u201cIt takes courage to grow up and become who you really are.\u201d",
+      "\u201cBut better to get hurt by the truth than comforted with a lie.\u201d",
+      "\u201cYou never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.\u201d",
+      "\u201cYou have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.\u201d",
+      "\u201cNever tell the truth to people who are not worthy of it.\u201d",
+      "\u201cA person's a person, no matter how small.\u201d",
+      "\u201c... a mind needs books as a sword needs a whetstone, if it is to keep its edge.\u201d"
+    ]
+  }
+]
